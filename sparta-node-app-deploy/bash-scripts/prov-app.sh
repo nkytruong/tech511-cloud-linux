@@ -52,12 +52,12 @@ echo
 
 # Get app code using a git clone
 echo Cloning app code...
-git clone https://github.com/nkytruong/tech511-sparta-test-app.git
+git clone https://github.com/nkytruong/tech511-sparta-test-app.git repo
 echo Done!
 echo
 
 echo cd into app folder...
-cd tech511-sparta-test-app/app/
+cd repo/app/
 echo Done!
 echo
 
